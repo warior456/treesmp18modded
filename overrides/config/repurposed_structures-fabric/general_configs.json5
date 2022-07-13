@@ -19,21 +19,21 @@
 			   Spawn attempts per chunk.
 			   0 for no Dungeons at all and 1000 for max spawnrate.
 			*/
-			"badlandsDungeonAttemptsPerChunk": 6,
+			"badlandsDungeonAttemptsPerChunk": 4,
 			/* 
 			   
 			   
 			   Spawn attempts per chunk.
 			   0 for no Dungeons at all and 1000 for max spawnrate.
 			*/
-			"darkForestDungeonAttemptsPerChunk": 8,
+			"darkForestDungeonAttemptsPerChunk": 4,
 			/* 
 			   
 			   
 			   Spawn attempts per chunk.
 			   0 for no Dungeons at all and 1000 for max spawnrate.
 			*/
-			"desertDungeonAttemptsPerChunk": 8,
+			"desertDungeonAttemptsPerChunk": 4,
 			/* 
 			   
 			   
@@ -47,7 +47,7 @@
 			   Spawn attempts per chunk.
 			   0 for no Dungeons at all and 1000 for max spawnrate.
 			*/
-			"jungleDungeonAttemptsPerChunk": 8,
+			"jungleDungeonAttemptsPerChunk": 4,
 			/* 
 			   
 			   
@@ -61,21 +61,21 @@
 			   Spawn attempts per chunk.
 			   0 for no Dungeons at all and 1000 for max spawnrate.
 			*/
-			"snowDungeonAttemptsPerChunk": 8,
+			"snowDungeonAttemptsPerChunk": 4,
 			/* 
 			   
 			   
 			   Spawn attempts per chunk.
 			   0 for no Dungeons at all and 1000 for max spawnrate.
 			*/
-			"icyDungeonAttemptsPerChunk": 8,
+			"icyDungeonAttemptsPerChunk": 4,
 			/* 
 			   
 			   
 			   Spawn attempts per chunk.
 			   0 for no Dungeons at all and 1000 for max spawnrate.
 			*/
-			"swampDungeonAttemptsPerChunk": 8,
+			"swampDungeonAttemptsPerChunk": 4,
 			/* 
 			   
 			   
@@ -83,7 +83,7 @@
 			   Spawn attempts per chunk.
 			   0 for no Dungeons at all and 1000 for max spawnrate.
 			*/
-			"endDungeonAttemptsPerChunk": 12,
+			"endDungeonAttemptsPerChunk": 4,
 			/* 
 			   
 			   
@@ -91,7 +91,7 @@
 			   Spawn attempts per chunk.
 			   0 for no Dungeons at all and 1000 for max spawnrate.
 			*/
-			"netherDungeonAttemptsPerChunk": 12,
+			"netherDungeonAttemptsPerChunk": 4,
 			/* 
 			   
 			   

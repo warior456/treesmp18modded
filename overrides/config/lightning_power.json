@@ -1,4 +1,4 @@
 {
-  "accurateRedstonePower": false,
-  "emittedEnergyAmountPerTick": 8192
+  "accurateRedstonePower": true,
+  "emittedEnergyAmountPerTick": 4096
 }
